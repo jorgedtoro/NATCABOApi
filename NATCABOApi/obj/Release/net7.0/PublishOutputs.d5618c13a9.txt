@@ -1,0 +1,12 @@
+/Users/jorgedetoro/Desktop/NATCABO Project/NATCABOApi/NATCABOApi/C:/Desktop/NATCABOApi
+/Users/jorgedetoro/Desktop/NATCABO Project/NATCABOApi/NATCABOApi/C:/Desktop/appsettings.Development.json
+/Users/jorgedetoro/Desktop/NATCABO Project/NATCABOApi/NATCABOApi/C:/Desktop/appsettings.json
+/Users/jorgedetoro/Desktop/NATCABO Project/NATCABOApi/NATCABOApi/C:/Desktop/NATCABOApi.dll
+/Users/jorgedetoro/Desktop/NATCABO Project/NATCABOApi/NATCABOApi/C:/Desktop/NATCABOApi.deps.json
+/Users/jorgedetoro/Desktop/NATCABO Project/NATCABOApi/NATCABOApi/C:/Desktop/NATCABOApi.runtimeconfig.json
+/Users/jorgedetoro/Desktop/NATCABO Project/NATCABOApi/NATCABOApi/C:/Desktop/NATCABOApi.pdb
+/Users/jorgedetoro/Desktop/NATCABO Project/NATCABOApi/NATCABOApi/C:/Desktop/Microsoft.AspNetCore.OpenApi.dll
+/Users/jorgedetoro/Desktop/NATCABO Project/NATCABOApi/NATCABOApi/C:/Desktop/Microsoft.OpenApi.dll
+/Users/jorgedetoro/Desktop/NATCABO Project/NATCABOApi/NATCABOApi/C:/Desktop/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jorgedetoro/Desktop/NATCABO Project/NATCABOApi/NATCABOApi/C:/Desktop/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jorgedetoro/Desktop/NATCABO Project/NATCABOApi/NATCABOApi/C:/Desktop/Swashbuckle.AspNetCore.SwaggerUI.dll
